@@ -1,5 +1,5 @@
 # reversing_a_string
-Strings
+
 Strings are used for storing text/characters. For example, "Hello World" is a string of characters. Unlike many other programming languages, C does not have a String type to easily create string variables. Instead, you must use the char type and create an array of characters to make a string in C:
 
 char test[] = "Hello World!";
